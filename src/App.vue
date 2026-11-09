@@ -1,6 +1,6 @@
 ﻿<script setup>
 import { ref, watch, onMounted, onBeforeUnmount } from 'vue'
-import portrait from '../imagens/WhatsApp Image 2026-08-29 at 01.24.04.jpeg'
+import portrait from '../imagens/joao-langa-perfil.png'
 import xitikandoLogo from '../imagens/Logo Oficial XiTikando (para perfil das redes sociais).png'
 import parceriaLogo from '../imagens/Parceria360_Logo.png'
 import sevenNetworksLogo from '../imagens/seven-networks-logo.png'
